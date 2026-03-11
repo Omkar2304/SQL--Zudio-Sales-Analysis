@@ -5,7 +5,7 @@
 
 <body>
 
-<h1 align="center">🛍️ SQL Zudio Sales Analysis</h1>
+<h1 align="center">🛍️ SQL: Zudio Sales Analysis</h1>
 
 <h2>📊 Project Overview</h2>
 
