@@ -122,7 +122,6 @@ ORDER BY category_sales DESC;
 <pre>
 SQL--Zudio-Sales-Analysis
 │
-├── zudio_sales_dataset.csv
 ├── zudio_sales_analysis.sql
 └── README.md
 </pre>
